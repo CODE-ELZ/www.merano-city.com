@@ -1,15 +1,17 @@
-body{
+body {
     padding: 1% 5%;
     background-color: #dbddf1 !important;
 }
 
-img{
+img {
     max-width: 100%;
 }
-.gallery{
+
+.gallery {
     padding: 80px 0;
 }
-.gallery img{
+
+.gallery img {
     background-color: #0000004d !important;
     padding: 15px;
     width: 100%;
@@ -18,14 +20,15 @@ img{
     cursor: pointer;
 }
 
-#gallery-modal .modal-img{
+#gallery-modal .modal-img {
     width: 100%;
 }
-.carousel{
+
+.carousel {
     background-color: #dbddf1 !important;
     padding: 0 30%;
 }
 
-.d-block{
+.d-block {
     height: 350px;
 }
