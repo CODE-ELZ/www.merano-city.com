@@ -259,13 +259,17 @@ h5 {
 
 
 
-.face {
-  color: blue;
+.snap {
+  color: #f4ec1d;
+  cursor: pointer;
+}
+.what {
+  color: #00ff1e;
   cursor: pointer;
 }
 
-.tweet {
-  color: lightskyblue;
+.tik {
+  color: #7c1c80;
   cursor: pointer;
 }
 
@@ -274,8 +278,8 @@ h5 {
   cursor: pointer;
 }
 
-.google {
-  color: orange;
+.int {
+  color: #ff00e1;
   cursor: pointer;
 }
 
