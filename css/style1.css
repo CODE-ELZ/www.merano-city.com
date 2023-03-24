@@ -141,7 +141,7 @@ h5 {
 
 /* ---footer--- */
 .footer {
-  margin-top: 10px;
+  margin: 80px 0;
   text-align: center;
   height: 20px;
   padding: 0 42%;
@@ -149,17 +149,14 @@ h5 {
 
 .footer__text {
   font-size: 1rem;
-  color: var(--secondColor);
+  color: var(--mainColor);
   cursor: default;
-  border-radius: 5px;
   transition: all 0.25s ease;
-  background-color: var(--mainColor);
-
 }
 
 .footer__text:hover {
   letter-spacing: 2px;
-  color: var(--secondColor);
+
 }
 
 
@@ -224,7 +221,8 @@ h5 {
     padding: 0 33%;
   }
   .footer__text p{
-    font-size: 8px;
+    font-size: 10px;
+    font-weight: bolder;
   }
 
   .section__form-title {
@@ -260,26 +258,26 @@ h5 {
 
 
 .snap {
-  color: #f4ec1d;
+  color: var(--thirdColor);
   cursor: pointer;
 }
 .what {
-  color: #00ff1e;
+  color: var(--thirdColor);
   cursor: pointer;
 }
 
 .tik {
-  color: #7c1c80;
+  color: var(--thirdColor);
   cursor: pointer;
 }
 
 .you {
-  color: red;
+  color: var(--thirdColor);
   cursor: pointer;
 }
 
 .int {
-  color: #ff00e1;
+  color: var(--thirdColor);
   cursor: pointer;
 }
 
